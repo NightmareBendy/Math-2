@@ -1,0 +1,61 @@
+body
+{
+	background-image: url(OIP.jpg);
+}
+
+.login_div1 
+{
+	padding: 10px;
+	float: none;
+	background-color: aqua;			
+}
+.login_div2
+{
+	padding: 10px;
+	float: none;
+	background-color: magenta;
+}
+.login_div3
+{
+	padding: 10px;
+	float: none;
+	background-color: violet;
+}
+#player1_name
+{
+	display: inline-block;
+	margin-left: 20px;
+
+}
+#player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+h1
+{
+	background-color:yellowgreen;
+	border-width: 7px;
+	border-style: ridge;
+}
+button
+{
+	background-color: yellowgreen;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
